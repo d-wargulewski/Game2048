@@ -102,6 +102,7 @@
     <Folder Include="Properties\Pictures\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About.txt" />
     <Content Include="og_image.ico" />
   </ItemGroup>
   <ItemGroup>
