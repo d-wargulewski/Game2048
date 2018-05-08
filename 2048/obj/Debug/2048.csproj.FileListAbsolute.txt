@@ -1,0 +1,57 @@
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\obj\Debug\_2048.Game.resources
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe.config
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.pdb
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\obj\Debug\Game 2048.exe
+C:\Users\Svenn\Desktop\Projekty CSHARP\2048\2048\obj\Debug\Game 2048.pdb
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe.config
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\obj\Debug\Game 2048.exe
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\obj\Debug\Game 2048.pdb
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.pdb
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\obj\Debug\_2048.Game.resources
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\Svenndw\Desktop\Projekty CSHARP\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe.config
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\obj\Debug\Game 2048.exe
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\obj\Debug\Game 2048.pdb
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\bin\Debug\Game 2048.pdb
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\obj\Debug\_2048.Game.resources
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+F:\01_Programowanie\01_Microsoft Visual Studio\Projekty CSHARP\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe.config
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\Game 2048.exe
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\Game 2048.pdb
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.pdb
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\_2048.Game.resources
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+F:\01_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe.config
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\Game 2048.exe
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\Game 2048.pdb
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.pdb
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\_2048.Game.resources
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+H:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe.config
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\Game 2048.exe
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\Game 2048.pdb
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.exe
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\bin\Debug\Game 2048.pdb
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\_2048.Game.resources
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\Game_2048\2048\bin\Debug\Game 2048.exe.config
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\Game_2048\2048\obj\Debug\Game 2048.exe
+F:\001_Programowanie\01_Microsoft Visual Studio C#\01_Projekty CSHARP\Game_2048\2048\obj\Debug\Game 2048.pdb
